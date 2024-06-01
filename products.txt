@@ -1,0 +1,101 @@
+<!-- Product Start -->
+    <div class="container-xxl py-5" id="product">
+      <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+          <div
+            class="bg-primary mb-3 mx-auto"
+            style="width: 60px; height: 2px"
+          ></div>
+          <h1 class="display-5 mb-5">Our Products</h1>
+        </div>
+        <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-12 text-center">
+            <ul class="list-inline mb-5" id="portfolio-flters">
+              <!-- <li class="mx-2 active" data-filter="*">All</li> -->
+              <!-- <li class="mx-2" data-filter=".first">Complete Projects</li>
+              <li class="mx-2" data-filter=".second">Ongoing Projects</li> -->
+            </ul>
+          </div>
+        </div>
+
+        <div class="row g-4 portfolio-container">
+          <div
+            class="col-lg-3 col-md-6 portfolio-item first wow fadeInUp"
+            data-wow-delay="0.1s"
+          >
+            <div class="portfolio-inner">
+              <img class="img-fluid w-100" src="img/products/product1.jpg"  alt="" />
+              <hr>
+              <div class="text-center p-4">
+                <p class="text-primary mb-2">Dahua HD CCTV <br> Package 1</p>
+                <h5 class="text-primary lh-base mb-0">$448*</h5>
+              </div>
+              <div class="portfolio-text text-center bg-white p-4">
+                <!-- <p class="text-primary mb-2">$448*</p> -->
+                <ul>
+                  <li>1 x 4CH.H 264 HD DVR</li>
+                  <li>1 x Day & Night 720P 1MP HD IR Dome Camera</li>
+                  <li>1 x 1TB Surveillance HDD</li>
+                  <li>1 x Standard Installation</li>
+                  <li>1 Year On Site Warranty</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div
+            class="col-lg-3 col-md-6 portfolio-item second wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div class="portfolio-inner">
+              <img class="img-fluid w-100" src="img/products/product2.jpg" alt="" />
+              <hr>
+              <div class="text-center p-4">
+                <p class="text-primary mb-2">Hikvision Network CCTV <br> Package 2</p>
+                <h5 class=" text-primary lh-base mb-0">
+                  S$748*
+                </h5>
+              </div>
+              <div class="portfolio-text text-center bg-white p-4">
+                <ul>
+                  <li>1 x 4CH.H 264 HD DVR</li>
+                  <li>2 x Day & Night 720P 1MP HD IR Dome Camera</li>
+                  <li>1 x 1TB Surveillance HDD</li>
+                  <li>1 x Standard Installation</li>
+                  <li>1 Year On Site Warranty</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+          <div
+            class="col-lg-3 col-md-6 portfolio-item second wow fadeInUp"
+            data-wow-delay="0.3s"
+          >
+            <div class="portfolio-inner">
+              <img class="img-fluid w-100" src="img/products/product3.jpg" alt="" />
+              
+              <div class="text-center p-4">
+                <p class="text-primary mb-2">Hikvision Network CCTV <br> Package 3</p>
+                <h5 class=" text-primary lh-base mb-0">
+                  S$1250*
+                </h5>
+              </div>
+              <div class="portfolio-text text-center bg-white p-4">
+                <ul>
+                  <li>1 x 4CH.H 264 HD DVR</li>
+                  <li>3 x Day & Night 720P 1MP HD IR Dome Camera</li>
+                  <li>1 x 1TB Surveillance HDD</li>
+                  <li>1 x Standard Installation</li>
+                  <li>1 Year On Site Warranty</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          
+        </div>
+      </div>
+    </div>
+    <!-- Projects End -->
